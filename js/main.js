@@ -41,8 +41,5 @@ var flipCard = function(cardId) {
 	checkForMatch();
 };
 
-
-
 flipCard(0);
 flipCard(1);
-//checkForMatch();
